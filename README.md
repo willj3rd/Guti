@@ -1,2 +1,0 @@
-# Guti
-Gutierrez website development
